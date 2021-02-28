@@ -37,9 +37,7 @@ Pliki nagłówkowe biblioteki QCustomPlot
 %package        doc
 Summary:	Documentation and examples for QCustomPlot
 Group:		Documentation
-%if "%{_rpmversion}" >= "5"
 BuildArch:	noarch
-%endif
 
 %description    doc
 Documentation and examples for QCustomPlot
